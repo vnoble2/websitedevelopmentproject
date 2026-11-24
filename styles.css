@@ -8,6 +8,7 @@ font-family: Arial, sans-serif;
 body {
 background-color: #f4f7f6;
 color: #222;
+font-size: 16px;
 line-height: 1.6;
 }
 
@@ -179,6 +180,8 @@ color: #ffffff;
 .mobile-menu-btn {
 display: block;
 margin-left: auto;
+min-width: 46px;
+min-height: 46px;
 padding: 0.4rem 0.8rem;
 }
 
